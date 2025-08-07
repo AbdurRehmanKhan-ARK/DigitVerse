@@ -1,4 +1,4 @@
-# 🌌 DigitVerse – The Universe Of Arithmetic Operations On Integers 
+# 🌌 DigitVerse: Elevate Your Integer Game 
 
   **_Dive Into the Hidden Intelligence of Numbers | C++17-Powered Playground for Exploring the Logic, Beauty, and Mystery Behind Digits_** 
 
@@ -124,7 +124,8 @@ Each New Operation Led To More Questions And New Discoveries. DigitVerse Is Proo
 BSCS At FAST NUCES Karachi  
 Loves Mathematics, Number Theory, And Crafting Clever Algorithms  
 
-✉️ Contact: abdurrehmankhan0909@gmail.com
+## 📫 **Get in Touch**
+- 📧 **Gmail:** [abdurrehmankhan0909@gmail.com](mailto:abdurrehmankhan0909@gmail.com)  
 
 ---
 
